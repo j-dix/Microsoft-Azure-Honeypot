@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs using Azure/Microsoft Entra ID</b>
-  - [Full Honeypot development](https://new.express.adobe.com/published/urn:aaid:sc:US:7cd8b934-5265-4ae2-a30b-bd449ae0a2aa?promoid=Y69SGM5H&mv=other)
+  - [Full Honeynet development](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
     - [Azure AD](https://www.credly.com/badges/d411665a-eb7c-4fb6-af43-9a9c20238040/public_url)
     - [Virtual Machines]()
     - [SQL database]()
