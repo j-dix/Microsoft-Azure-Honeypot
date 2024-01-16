@@ -7,7 +7,7 @@
     - [Azure AD](https://new.express.adobe.com/published/urn:aaid:sc:US:fe1e9636-acca-4fdd-a325-4d2c09501423?promoid=Y69SGM5H&mv=other)
     - [Virtual Machine(windows)](https://new.express.adobe.com/published/urn:aaid:sc:US:68037a7d-bbb0-4943-b02a-36d43faf5ec7?promoid=Y69SGM5H&mv=other)
       - [Opening Firewall pt1](https://new.express.adobe.com/published/urn:aaid:sc:US:0b932c2f-0429-4a96-8a5c-d54af25d5a00?promoid=Y69SGM5H&mv=other)
-      - [Opening Firewall pt2]()
+      - [Opening Firewall pt2](https://new.express.adobe.com/published/urn:aaid:sc:US:ead5924f-ddac-49a1-8eb8-162dbd090019?promoid=Y69SGM5H&mv=other)
     - [Virtual Machine(linux)](https://new.express.adobe.com/published/urn:aaid:sc:US:072d843b-d026-4b57-bff4-ab533b75d790?promoid=Y69SGM5H&mv=other)
       - [Opening Firewall](https://new.express.adobe.com/published/urn:aaid:sc:US:66bb3b6f-e997-4260-9f76-ade6ea632500?promoid=Y69SGM5H&mv=other)
     - [SQL database]()
