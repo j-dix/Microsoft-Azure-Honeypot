@@ -14,6 +14,7 @@
     - [SIEM w/ Incident Map]()
   - [Basic Network Hardening via Microsoft Entra ID]()
     - [Storage account firewall](https://new.express.adobe.com/published/urn:aaid:sc:US:b35337f5-da94-43e7-97e7-fae646ce82c6?promoid=Y69SGM5H&mv=other)
+    - [Storage account privatelink]()
 - <b>Certifications</b>
   - [Network +](https://www.credly.com/badges/d411665a-eb7c-4fb6-af43-9a9c20238040/public_url) <b><i> </b></i>
   - [Security +](https://www.credly.com/badges/6cb61f60-e491-4832-8ef3-abd274f9f136/public_url)
