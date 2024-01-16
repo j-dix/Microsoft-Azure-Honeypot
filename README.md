@@ -5,7 +5,8 @@
 - <b>Home Labs using Azure/Microsoft Entra ID</b>
   - [Full Honeynet development](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
     - [Azure AD](https://new.express.adobe.com/published/urn:aaid:sc:US:fe1e9636-acca-4fdd-a325-4d2c09501423?promoid=Y69SGM5H&mv=other)
-    - [Virtual Machines](https://new.express.adobe.com/published/urn:aaid:sc:US:68037a7d-bbb0-4943-b02a-36d43faf5ec7?promoid=Y69SGM5H&mv=other)
+    - [Virtual Machine(windows)](https://new.express.adobe.com/published/urn:aaid:sc:US:68037a7d-bbb0-4943-b02a-36d43faf5ec7?promoid=Y69SGM5H&mv=other)
+    - [Virtual Machine(linux)](https://new.express.adobe.com/published/urn:aaid:sc:US:072d843b-d026-4b57-bff4-ab533b75d790?promoid=Y69SGM5H&mv=other)
     - [SQL database]()
     - [Storage]()
     - [Key Vault]()
