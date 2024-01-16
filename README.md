@@ -11,7 +11,7 @@
     - [Virtual Machine(linux)](https://new.express.adobe.com/published/urn:aaid:sc:US:072d843b-d026-4b57-bff4-ab533b75d790?promoid=Y69SGM5H&mv=other)
       - [Opening Firewall](https://new.express.adobe.com/published/urn:aaid:sc:US:66bb3b6f-e997-4260-9f76-ade6ea632500?promoid=Y69SGM5H&mv=other)
     - [SQL database](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
-      - [SQL Server Installation]()
+      - [SQL Server Installation](https://new.express.adobe.com/published/urn:aaid:sc:US:53af9613-02a9-4f65-bf53-de93585c4295?promoid=Y69SGM5H&mv=other)
       - [SSMS Installation]()
     - [Storage]()
     - [Key Vault]()
