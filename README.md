@@ -4,8 +4,10 @@
 
 - <b>Home Lab using Microsoft Entra ID</b>
   - [Full Honeypot development](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Certifications</b>
+  - [Network +](https://www.credly.com/badges/d411665a-eb7c-4fb6-af43-9a9c20238040/public_url) <b><i> </b></i>
+  - [Security +](https://www.credly.com/badges/6cb61f60-e491-4832-8ef3-abd274f9f136/public_url)
+  - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/809654c8-8c53-4b54-abfc-1d5fabe94634/public_url)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
