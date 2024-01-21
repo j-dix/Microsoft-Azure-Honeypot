@@ -13,14 +13,15 @@
     - [SQL database](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
       - [SQL Server Installation](https://new.express.adobe.com/published/urn:aaid:sc:US:53af9613-02a9-4f65-bf53-de93585c4295?promoid=Y69SGM5H&mv=other)
     - [Log Analytics Workspace](https://new.express.adobe.com/published/urn:aaid:sc:US:77841558-83ac-441a-8f82-7ce78e349b4e?promoid=Y69SGM5H&mv=other)
-    - [Storage]()
-    - [Key Vault]()
-    - [Activity log]()
-    
     - [SIEM w/ Incident Map](https://new.express.adobe.com/published/urn:aaid:sc:US:9efc6126-d0de-4b1d-8ad7-d7897fcd02ae?promoid=Y69SGM5H&mv=other)
+    - [Log Ingestion]()
+      -[Microsoft Defender for Cloud](https://new.express.adobe.com/published/urn:aaid:sc:US:3d4dde8b-7677-4932-9493-886e78102a8c?promoid=Y69SGM5H&mv=other)
+    - [Storage]()    
+    - [Activity log]()       
   - [Basic Network Hardening via Microsoft Entra ID]()
     - [Storage account firewall](https://new.express.adobe.com/published/urn:aaid:sc:US:b35337f5-da94-43e7-97e7-fae646ce82c6?promoid=Y69SGM5H&mv=other)
     - [Storage account privatelink]()
+    - [Key Vault]()
 - <b>Certifications</b>
   - [Network +](https://www.credly.com/badges/d411665a-eb7c-4fb6-af43-9a9c20238040/public_url) <b><i> </b></i>
   - [Security +](https://www.credly.com/badges/6cb61f60-e491-4832-8ef3-abd274f9f136/public_url)
