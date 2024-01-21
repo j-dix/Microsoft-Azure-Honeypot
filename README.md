@@ -14,9 +14,8 @@
       - [SQL Server Installation](https://new.express.adobe.com/published/urn:aaid:sc:US:53af9613-02a9-4f65-bf53-de93585c4295?promoid=Y69SGM5H&mv=other)
     - [Log Analytics Workspace](https://new.express.adobe.com/published/urn:aaid:sc:US:77841558-83ac-441a-8f82-7ce78e349b4e?promoid=Y69SGM5H&mv=other)
     - [SIEM w/ Incident Map](https://new.express.adobe.com/published/urn:aaid:sc:US:9efc6126-d0de-4b1d-8ad7-d7897fcd02ae?promoid=Y69SGM5H&mv=other)
-    - [Log Ingestion]()
-      
-      -[Microsoft Defender for Cloud](https://new.express.adobe.com/published/urn:aaid:sc:US:3d4dde8b-7677-4932-9493-886e78102a8c?promoid=Y69SGM5H&mv=other)
+    - [Log Ingestion](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other) 
+      - [Microsoft Defender for Cloud](https://new.express.adobe.com/published/urn:aaid:sc:US:3d4dde8b-7677-4932-9493-886e78102a8c?promoid=Y69SGM5H&mv=other)
     - [Storage]()    
     - [Activity log]()       
   - [Basic Network Hardening via Microsoft Entra ID]()
