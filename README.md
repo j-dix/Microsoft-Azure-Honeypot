@@ -14,6 +14,7 @@
       - [SQL Server Installation](https://new.express.adobe.com/published/urn:aaid:sc:US:53af9613-02a9-4f65-bf53-de93585c4295?promoid=Y69SGM5H&mv=other)
     - [Log Analytics Workspace](https://new.express.adobe.com/published/urn:aaid:sc:US:77841558-83ac-441a-8f82-7ce78e349b4e?promoid=Y69SGM5H&mv=other)
     - [SIEM w/ Incident Map](https://new.express.adobe.com/published/urn:aaid:sc:US:9efc6126-d0de-4b1d-8ad7-d7897fcd02ae?promoid=Y69SGM5H&mv=other)
+      - [Workbooks]()
     - [Log Ingestion](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
       - [Tenant logs via Azure AD](https://new.express.adobe.com/published/urn:aaid:sc:US:7278fd56-5725-4886-a0c9-737fd154a682?promoid=Y69SGM5H&mv=other)
       - [Activity Logs](https://new.express.adobe.com/published/urn:aaid:sc:US:594ede8f-f8cd-4ad3-914e-72c3fe0f079b?promoid=Y69SGM5H&mv=other)
