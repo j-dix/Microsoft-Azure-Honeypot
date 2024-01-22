@@ -17,6 +17,7 @@
     - [Log Ingestion](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
       - [Tenant logs via Azure AD](https://new.express.adobe.com/published/urn:aaid:sc:US:7278fd56-5725-4886-a0c9-737fd154a682?promoid=Y69SGM5H&mv=other)
       - [Activity Logs](https://new.express.adobe.com/published/urn:aaid:sc:US:594ede8f-f8cd-4ad3-914e-72c3fe0f079b?promoid=Y69SGM5H&mv=other)
+      - [Storage Account Logs](https://new.express.adobe.com/published/urn:aaid:sc:US:3fab935a-42c5-491b-bb8a-3305a696c5a2?promoid=Y69SGM5H&mv=other)
       - [Microsoft Defender for Cloud](https://new.express.adobe.com/published/urn:aaid:sc:US:3d4dde8b-7677-4932-9493-886e78102a8c?promoid=Y69SGM5H&mv=other)
     - [Storage Account & Data Collection Rules](https://new.express.adobe.com/published/urn:aaid:sc:US:9e6b4db2-c70f-4b88-aa15-47bb341eb57a?promoid=Y69SGM5H&mv=other)         
   - [Basic Network Hardening via Microsoft Entra ID]()
