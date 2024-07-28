@@ -35,7 +35,9 @@
 [linkedin]: www.linkedin.com/in/j-dixon-cybersecurity-2a21a2295
 
 <h2> 🔭 I’m currently working on: </h2>
-CySA+ certification
+BS in Cybersecurity and Information Compliance
+Microsoft AZ-104 Certification
+AWS Foundational Certification
 
 <h2> 📫 How to reach me: </h2>
 Email: jdixon6843@gmail.com
