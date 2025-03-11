@@ -35,7 +35,7 @@
 [linkedin]: www.linkedin.com/in/j-dixon-cybersecurity-2a21a2295
 
 <h2> 🔭 I’m currently working on: </h2>
-BS in Cybersecurity and Information Compliance,
+BS in Cybersecurity and Information Compliance at WGU,
 Microsoft AZ-104 Certification and
 AWS Foundational Certification
 
