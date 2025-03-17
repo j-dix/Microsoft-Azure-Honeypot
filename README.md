@@ -1,4 +1,4 @@
-<h1>Hello I'm Jason! <br/><a href="https://www.linkedin.com/in/j-dixon-cybersecurity-2a21a2295/">Cloud Security & IAM Optimization Specialist</a></h1>
+<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/j-dixon-cybersecurity-2a21a2295/">Cloud Security & IAM Optimization Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
