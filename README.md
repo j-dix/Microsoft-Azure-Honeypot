@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/j-dixon-cybersecurity-2a21a2295/">Network Security-Focused IT Support Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Hands-On Project:</h2>
 
 - <b>Home Labs using Azure/Microsoft Entra ID</b>
   - [Full Honeynet development Overview](https://new.express.adobe.com/published/urn:aaid:sc:US:f4e648ed-3132-4a7d-988d-bcac6d85e032?promoid=Y69SGM5H&mv=other)
